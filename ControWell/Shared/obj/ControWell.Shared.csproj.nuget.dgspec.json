@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DESARROLLADOR BAKEND-FRONTEND\\nuevorepocontrowell\\ControWell\\Shared\\ControWell.Shared.csproj": {}
+    "D:\\DESARROLLADOR BAKEND-FRONTEND\\temporal\\temporal_controwell\\ControWell\\Shared\\ControWell.Shared.csproj": {}
   },
   "projects": {
-    "D:\\DESARROLLADOR BAKEND-FRONTEND\\nuevorepocontrowell\\ControWell\\Shared\\ControWell.Shared.csproj": {
+    "D:\\DESARROLLADOR BAKEND-FRONTEND\\temporal\\temporal_controwell\\ControWell\\Shared\\ControWell.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DESARROLLADOR BAKEND-FRONTEND\\nuevorepocontrowell\\ControWell\\Shared\\ControWell.Shared.csproj",
+        "projectUniqueName": "D:\\DESARROLLADOR BAKEND-FRONTEND\\temporal\\temporal_controwell\\ControWell\\Shared\\ControWell.Shared.csproj",
         "projectName": "ControWell.Shared",
-        "projectPath": "D:\\DESARROLLADOR BAKEND-FRONTEND\\nuevorepocontrowell\\ControWell\\Shared\\ControWell.Shared.csproj",
+        "projectPath": "D:\\DESARROLLADOR BAKEND-FRONTEND\\temporal\\temporal_controwell\\ControWell\\Shared\\ControWell.Shared.csproj",
         "packagesPath": "C:\\Users\\Marlon\\.nuget\\packages\\",
-        "outputPath": "D:\\DESARROLLADOR BAKEND-FRONTEND\\nuevorepocontrowell\\ControWell\\Shared\\obj\\",
+        "outputPath": "D:\\DESARROLLADOR BAKEND-FRONTEND\\temporal\\temporal_controwell\\ControWell\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marlon\\AppData\\Roaming\\NuGet\\NuGet.Config",

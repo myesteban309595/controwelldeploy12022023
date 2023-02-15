@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "98z+eyhz8OqdA8ExsBxh9E6Kv15vrnXzJAM275jDWy1Eotg9WpG7y09WNIeLIvkdqdxMiqd9LBMs2V8LkVl4bw==",
+  "dgSpecHash": "aIw2TdH8rI0XVRQ6ByaaZj4qbjaZRcM1pHTrzR0wc5whgnUQVfmYRzI1op6VcywXX0WN4YfKzb1yt2xXiNSKVA==",
   "success": true,
-  "projectFilePath": "D:\\DESARROLLADOR BAKEND-FRONTEND\\nuevorepocontrowell\\ControWell\\Client\\ControWell.Client.csproj",
+  "projectFilePath": "D:\\DESARROLLADOR BAKEND-FRONTEND\\temporal\\temporal_controwell\\ControWell\\Client\\ControWell.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marlon\\.nuget\\packages\\closedxml\\0.97.0\\closedxml.0.97.0.nupkg.sha512",
     "C:\\Users\\Marlon\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.4.0\\currietechnologies.razor.sweetalert2.5.4.0.nupkg.sha512",

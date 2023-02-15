@@ -10861,11 +10861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DESARROLLADOR BAKEND-FRONTEND\\nuevorepocontrowell\\ControWell\\Client\\ControWell.Client.csproj",
+      "projectUniqueName": "D:\\DESARROLLADOR BAKEND-FRONTEND\\temporal\\temporal_controwell\\ControWell\\Client\\ControWell.Client.csproj",
       "projectName": "ControWell.Client",
-      "projectPath": "D:\\DESARROLLADOR BAKEND-FRONTEND\\nuevorepocontrowell\\ControWell\\Client\\ControWell.Client.csproj",
+      "projectPath": "D:\\DESARROLLADOR BAKEND-FRONTEND\\temporal\\temporal_controwell\\ControWell\\Client\\ControWell.Client.csproj",
       "packagesPath": "C:\\Users\\Marlon\\.nuget\\packages\\",
-      "outputPath": "D:\\DESARROLLADOR BAKEND-FRONTEND\\nuevorepocontrowell\\ControWell\\Client\\obj\\",
+      "outputPath": "D:\\DESARROLLADOR BAKEND-FRONTEND\\temporal\\temporal_controwell\\ControWell\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marlon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10882,8 +10882,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\DESARROLLADOR BAKEND-FRONTEND\\nuevorepocontrowell\\ControWell\\Shared\\ControWell.Shared.csproj": {
-              "projectPath": "D:\\DESARROLLADOR BAKEND-FRONTEND\\nuevorepocontrowell\\ControWell\\Shared\\ControWell.Shared.csproj"
+            "D:\\DESARROLLADOR BAKEND-FRONTEND\\temporal\\temporal_controwell\\ControWell\\Shared\\ControWell.Shared.csproj": {
+              "projectPath": "D:\\DESARROLLADOR BAKEND-FRONTEND\\temporal\\temporal_controwell\\ControWell\\Shared\\ControWell.Shared.csproj"
             }
           }
         }
